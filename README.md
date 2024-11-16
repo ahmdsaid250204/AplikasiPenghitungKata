@@ -1,2 +1,0 @@
-# AplikasiPenghitungKata
-Tugas 5
